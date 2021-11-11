@@ -5,4 +5,4 @@ My paper in Text Emotion Recognition
 
 `CosFaceLoss`:
 
-![Picture](Loss.png)
+![Picture](Loss.PNG)
