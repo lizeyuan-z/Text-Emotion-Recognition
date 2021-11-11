@@ -1,8 +1,8 @@
 # Text-Emotion-Recognition
-My paper in Text Emotion Recognition
+### My paper in Text Emotion Recognition
 
 ![Picture](Model.jpg)
 
-`CosFaceLoss`:
+### CosFaceLoss
 
 ![Picture](Loss.PNG)
