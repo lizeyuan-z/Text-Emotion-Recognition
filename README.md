@@ -1,4 +1,4 @@
 # Text-Emotion-Recognition
 My paper in Text Emotion Recognition
 
-![Picture](model.jpg)
+![Picture](Model.jpg)
